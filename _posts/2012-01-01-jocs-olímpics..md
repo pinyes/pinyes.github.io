@@ -1,6 +1,6 @@
 ---
 title: Els Castellers de Barcelona als Jocs Olímpics Barcelona'92
-date: 2021-08-08 +0200
+date: 2012-09-01 +0200
 categories: [Número 9]
 tags: [article, jocs olímpics]
 authors: [tete, farreny]
