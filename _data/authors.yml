@@ -6,11 +6,19 @@ URC:
 tete:
   name: Òscar Montserrat
   twitter: https://twitter.com/oscarmontserrat
-  url: https://tetecdb.wordpress.com/
+  url: https://twitter.com/oscarmontserrat
 
 farreny:
   name: Josep Farreny
 
 manane:
   name: Toni Mañané
-  twitter: https://twitter.com/ToniM20
+  url: https://twitter.com/ToniM20
+
+paco:
+  name: Francesc Igual
+
+m-cortes:
+  Name: Mireia Cortès
+  url: https://twitter.com/mireiacortes
+  twitter: https://twitter.com/mireiacortes
