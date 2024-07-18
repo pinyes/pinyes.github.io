@@ -1,5 +1,5 @@
 ---
-title: Racó del cap de colla de novembre de 2022
+title: Racó del cap de colla d'agost de 2019
 description: Comença una nova temporada
 date: 2022-11-30 +0300
 categories: [Número 47, Racó del cap de colla]
