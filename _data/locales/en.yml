@@ -11,7 +11,7 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Inici
-  categories: Categories
+  categories: Números
   tags: Etiquetes
   archives: Arxiu
   about: Sobre
