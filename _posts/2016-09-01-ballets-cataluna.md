@@ -13,7 +13,8 @@ En el llibre Castellers de Barcelona, 35 anys. Un segle i mig de castells a Barc
 L'URC ha tingut accés a l'original d'una carta datada el 19 de setembre de 1958, escrita per Josep Durich i adreçada a Ramon Sala. Aquesta carta aporta una nova informació que amplia la que ja teníem de com es va formar l'embrió de la Colla a través dels Ballets de Catalunya. En aquest document, Durich diu a Ramon Sala que ha «lograt cridar l'atenció de l'agrupació folklòrica Ballets de Catalunya a fi que en el seu repertori de danses i representacions típiques folklòriques catalanes, s'inclogui l'actuació dels també
 típics «Xiquets de Valls (...) Colla Vella».
 
-![carta-durich](http://urc.castellers.barcelona/assets/images/Carta-durich.png)
+![carta-durich](https://urc.castellers.barcelona/assets/images/Carta-durich.png)
+_Carta que va escriure Jodep Durich a Ramon Sala_
 
 Aquell any de 1958 no van actuar els Xiquets de Valls, però sí que a la Mercè d'aquell any ho van fer els Nens del Vendrell, cosa que podria donar a entendre que cinc dies abans es va canviar de colla castellera. En el document, en Durich demana al vilafranquí Ramon Sala que «vulgui col·labrar [...] ja que al començament, tots sabem que hi mancarà l'entusiasme que nosaltres portem dintre i que als novells components d'aquesta "Colla" que va a néixer encara els mancarà, per desconèixer l'emoció que produeix aixecar castells, torres i pilars».
 El mateix document anunciava per al 6 d'octubre una reunió al local social dels Ballets de Catalunya, al Palau del Marquès de Llió del carrer Montcada, on «es portarà a tem1e Ja primera reunió [...] i on ens ajudarà moralment a infondre l'ànim necessari perquè promte es vegi convertit en una realitat aquest antic somni nostre».
