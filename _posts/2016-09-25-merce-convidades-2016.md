@@ -6,7 +6,7 @@ tags: [crònica, temporada 2016]
 authors: [paco, m-cortes]
 image:
     path: https://live.staticflickr.com/8502/29325410693_4a09717c3c_b.jpg
-    alt: 4d9f descarregat a la diada de colles convidades
+    alt: 4d9f descarregat a la diada de colles convidades.
 ---
 #### Francesc Igual
 Aquest any arribàvem a la Mercè amb força deures pendents i, després de les dues actuacions del cap de setmana, podríem dir que ho vam resoldre tot amb bona nota. Del dia abans ens vàrem quedar amb el 3 de 9 amb folre pendent i aquest és el castell que es va triar per començar l'actuació. I cal dir que es va descarregar molt bé.

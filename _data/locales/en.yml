@@ -71,7 +71,21 @@ post:
       title: Copiar enllaç
       succeed: Enllaç copiat!
 
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+#df:
+#  post:
+#    strftime: "%b %e, %Y"
+#    dayjs: "ll"
+#  archives:
+#    strftime: "%b"
+#    dayjs: "MMM"
+
 # categories page
 categories:
-  category_measure: categories
-  post_measure: entrades
+  category_measure:
+    singular: categoria
+    plural: categories
+  post_measure:
+    singular: entrada
+    plural: entrades
