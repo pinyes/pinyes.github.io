@@ -5,6 +5,9 @@ date: 2016-09-01 +0200
 categories: [Número 36]
 tags: [article, història]
 author: manane
+image:
+    path: https://urc.castellers.barcelona/assets/images/Carta-durich.png
+    alt: carta-durich
 ---
 Els castellers de Barcelona vam néi.xer el 8 de juny de 1969, però onze anys abanS gent com en Ramon Sala (pare del nostre fundador, Josep Sala), en Josep Durich i el cronista casteller i fotògraf Pere Català Roca ja havien posat la llavor del que seria la nostra Colla.
 

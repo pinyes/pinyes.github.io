@@ -4,6 +4,9 @@ date: 2012-09-01 +0200
 categories: [Número 9]
 tags: [article, jocs olímpics]
 authors: [tete, farreny]
+image:
+    path: https://castellersdebarcelona.cat/_next/image?url=https%3A%2F%2Fcms.castellersdebarcelona.cat%2Fwp-content%2Fuploads-webpc%2Fuploads%2F2021%2F08%2FCastellsJocs92.jpg.webp&w=640&q=75
+    alt: jocs-olímpics-castellers
 ---
 
 El juliol i agost del 1992 a Barcelona, en particular, i a Catalunya, en general, es vivia intensament la celebració dels Jocs Olímpics, en els quals no va faltar la presència del fet casteller com a tret d’identitat de la cultura popular catalana en diferents actes i, en especial, en la cerimònia d’inauguració celebrada el 25 de juliol del 1992.
