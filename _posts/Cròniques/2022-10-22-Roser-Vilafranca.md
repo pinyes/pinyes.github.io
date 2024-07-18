@@ -3,7 +3,7 @@ title: Diada del Roser a Vilafranca
 description: Diada agredolça
 date: 2022-10-22 +0300
 categories: [Número 47]
-tags: [crònica, temporada 2022]
+tags: [crònica, temporada 2022, Roser a Vilafranca]
 author: cinta
 image:
     path: https://live.staticflickr.com/65535/52472747044_282ef65033_h.jpg

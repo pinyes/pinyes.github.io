@@ -3,7 +3,7 @@ title: Racó del cap de colla d'agost de 2019
 description: Comença una nova temporada
 date: 2019-08-30 +0300
 categories: [Número 42, Racó del cap de colla]
-tags: [opinió]
+tags: [opinió, temporada 2019]
 author: montu
 image:
     path: https://live.staticflickr.com/7829/47374919992_6368b642f8_b.jpg

@@ -3,7 +3,7 @@ title: Racó del cap de colla de novembre de 2022
 description: Comença una nova temporada
 date: 2022-11-30 +0300
 categories: [Número 47, Racó del cap de colla]
-tags: [opinió]
+tags: [opinió, temporada 2022]
 author: pauet
 image:
     path: https://live.staticflickr.com/65535/52377321344_872e037b97_h.jpg

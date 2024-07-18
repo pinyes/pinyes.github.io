@@ -2,7 +2,7 @@
 title: La Mercè - Diada de colles convidades
 date: 2016-09-25 +0200
 categories: [Número 37]
-tags: [crònica, temporada 2016]
+tags: [crònica, temporada 2016, Mercè]
 authors: [paco, m-cortes]
 image:
     path: https://live.staticflickr.com/8502/29325410693_4a09717c3c_b.jpg
