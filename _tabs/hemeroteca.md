@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 # Temporada 2022
-* [Núm. 47 - Torna el cuc dels castells de 9](\assets\revista\URC-47.pdf)
+* [Núm. 47 - Torna el cuc dels castells de 9](https://drive.google.com/file/d/15ENALHQNf1LItZg2FzCocy12iVuqHAta/view?usp=drive_link)
 
 # Temporada 2019
 * [Núm. 42 - 50 anys després](https://drive.google.com/file/d/140HsYNmJFryGpPhcrbE0iUhbUmU6OUWj/view?usp=drive_link)
