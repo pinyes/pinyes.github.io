@@ -20,4 +20,4 @@ order: 4
 * [Núm. 37 - Recollint el fruit d'una intensa feina d'assaig del pilar](https://drive.google.com/file/d/1fwlz3ja00d5TygKMJd_1HVpCGVENdYo7/view?usp=drive_link)
 
 # Temporada 2016
-* [Núm. 36 - La Mercè és nostra](assets\revista\URC-36.pdf)
+* [Núm. 36 - La Mercè és nostra](https://drive.google.com/file/d/1XN35b0yZAHUgfeb9VRQvxJrqxzNz_bg0/view?usp=drive_link)
