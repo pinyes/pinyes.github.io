@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-title: Hemeroteca
-icon: fas fa-info-circle
+title: Versió impressa
+icon: fas fa-book
 order: 4
 ---
 # Temporada 2022
