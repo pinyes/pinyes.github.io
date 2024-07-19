@@ -1,5 +1,5 @@
 ---
-title: sala de juntes de novembre de 2022
+title: Sala de juntes de novembre de 2022
 description: Una temporada per superar límits
 date: 2022-11-30 +0300
 categories: [Número 47, Sala de juntes]
